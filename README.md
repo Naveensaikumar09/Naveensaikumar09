@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Seera Naveen SaiKumar</h1>
 
 <p align="center">
-🎓 Final-year B.Tech (CSE) @ GMR Institute of Technology | 📈 CGPA: 8.99 
-| 🧮 500+ DSA Problems Solved | 👨‍💻 Passionate Developer & Learner
+🎓 Final-year B.Tech (CSE – AI & ML) @ GMR Institute of Technology | 📈 CGPA: 8.99  
+| 🧮 600+ DSA Problems Solved | 👨‍💻 Passionate Developer & Learner
 </p>
 
 ---
@@ -10,8 +10,8 @@
 ### 💼 About Me
 
 - 🎓 B.Tech (CSE) — GMR Institute of Technology (2022–2026)
-- 🧠 Passionate about **AI**, **web development**, and solving **challenging DSA problems**
-- 🧩 Solved **800+ problems** across Leetcode, GFG, and CodeChef
+- 🧠 Passionate about **AI**, **Machine Learning**, and solving **challenging DSA problems**
+- 🧩 Solved **600+ problems** across Leetcode, GFG, and CodeChef
 - 🏆 Winner: **ISTE 12‑hr coding event** & **Code Refactors @ Stepcone**
 
 ---
@@ -48,4 +48,10 @@
 
 ---
 
-_“Consistency, curiosity, and code – that’s how I build.”_
+### 🎯 Fun & Facts
+
+- 🧩 Enjoy solving DSA problems & logic puzzles  
+- 🔍 Always exploring new tech & frameworks  
+- ⚡ Aim: Build scalable ML-powered apps that make a difference
+
+---
