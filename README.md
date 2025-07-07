@@ -1,7 +1,7 @@
 <h1 align="center"> Seera Naveen SaiKumar</h1>
 
 <p align="center">
-🎓 Final-year B.Tech (CSE – AI & ML) @ GMR Institute of Technology | 📈 CGPA: 8.99  
+🎓 Final-year B.Tech (CSE) @ GMR Institute of Technology | 📈 CGPA: 8.99  
 | 🧮 600+ DSA Problems Solved | 👨‍💻 Passionate Developer & Learner
 </p>
 
