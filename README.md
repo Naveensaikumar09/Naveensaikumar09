@@ -1,8 +1,8 @@
-<h1 align="center"> Seera Naveen SaiKumar</h1>
+<h1 align="center">Seera Naveen SaiKumar</h1>
 
 <p align="center">
 🎓 Final-year B.Tech (CSE) @ GMR Institute of Technology | 📈 CGPA: 8.99  
-| 🧮 600+ DSA Problems Solved | 👨‍💻 Passionate Developer & Learner
+🧮 600+ DSA Problems Solved | 👨‍💻 Passionate Developer & Learner
 </p>
 
 ---
@@ -15,16 +15,15 @@
 - 🏆 Winner: **ISTE 12‑hr coding event** & **Code Refactors @ Stepcone**
 
 ---
-
 ### 🛠️ Skills
 
-| Domain               | Technologies |
-|----------------------|--------------|
-| 💻 Languages         | C · C++ · Python · Java |
-| 🌐 Web Development  | HTML · CSS · JavaScript · Bootstrap · Django · PHP |
-| 🤖 AI / ML          | PyTorch · TensorFlow · Scikit-learn · DistilBERT · LSTM |
-| ⚙️ Tools & DB        | React.js · FastAPI · MySQL · Git |
-
+- 💻 **Languages:** C, C++, Python, Java  
+- 🌐 **Web:** HTML, CSS, Bootstrap, Django, PHP, JavaScript  
+- 🤖 **Technologies:** Machine Learning, Deep Learning  
+- 🧠 **Frameworks:** PyTorch, TensorFlow, Scikit-learn  
+- 🗄️ **Database:** MySQL  
+- 📚 **Concepts:** Operating Systems, Software Engineering Principles
+- 
 ---
 
 ### 📦 Project Repositories
@@ -34,7 +33,7 @@
 | [`healthy-fy`](https://github.com/Naveensaikumar09/healthy-fy) | Predicts mental health risk using personality trait text via NLP | DistilBERT · LSTM · PyTorch · FastAPI · React |
 | [`StudentInfoTracker`](https://github.com/Naveensaikumar09/StudentInfoTracker) | Django-based student info system with attendance and academics tracking | Django · MySQL · REST APIs |
 | [`OnlineExamination`](https://github.com/Naveensaikumar09/OnlineExamination) | Online test-taking platform with auto evaluation and result reporting | PHP · JavaScript · MySQL · Bootstrap |
-| [`CodeUnsolved`](https://github.com/Naveensaikumar09/CodeUnsolved) | Extension-based tracker to keep count of unsolved problems on LeetCode and Codeforces | JavaScript · HTML · CSS · Web Extensions |
+| [`CodeUnsolved`](https://github.com/Naveensaikumar09/CodeUnsolved) | Extension-based tracker to keep the track of unsolved problems on LeetCode and Codeforces | JavaScript · HTML · CSS · Web Extensions |
 
 ---
 
@@ -55,3 +54,5 @@
 - ⚡ Aim: Build scalable ML-powered apps that make a difference
 
 ---
+
+_“Consistency, curiosity, and code – that’s how I build.”_
