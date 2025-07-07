@@ -5,21 +5,6 @@
 | 🧮 500+ DSA Problems Solved | 👨‍💻 Passionate Developer & Learner
 </p>
 
-<p align="center">
-  <a href="mailto:nsai69336@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/naveensaikumar">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/Naveensaikumar/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://www.codechef.com/users/naveensai09">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ### 💼 About Me
