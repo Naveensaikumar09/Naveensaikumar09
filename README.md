@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Seera Naveen SaiKumar</h1>
-<h3 align="center">Undergrad • Software Engineer • ML Enthusiast</h3>
+
+<p align="center">
+🎓 Final-year B.Tech (CSE) @ GMR Institute of Technology | 📈 CGPA: 8.99 
+| 🧮 500+ DSA Problems Solved | 👨‍💻 Passionate Developer & Learner
+</p>
 
 <p align="center">
   <a href="mailto:nsai69336@gmail.com">
@@ -8,8 +12,11 @@
   <a href="https://linkedin.com/in/naveensaikumar">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/Naveensaikumar09">
-    <img src="https://img.shields.io/github/followers/Naveensaikumar09?label=Follow&style=social"/>
+  <a href="https://leetcode.com/u/Naveensaikumar/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.codechef.com/users/naveensai09">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white"/>
   </a>
 </p>
 
@@ -18,9 +25,9 @@
 ### 💼 About Me
 
 - 🎓 B.Tech (CSE) — GMR Institute of Technology (2022–2026)
-- 🧠 Engineering solutions in **Machine Learning**, **Web Dev**, and **DSA**
-- 📈 Solved **800+** problems on Leetcode, GFG, CodeChef
-- 🏅 Winner: ISTE 12‑hr coding event & Stepcone Code Refactors
+- 🧠 Passionate about **AI**, **web development**, and solving **challenging DSA problems**
+- 🧩 Solved **800+ problems** across Leetcode, GFG, and CodeChef
+- 🏆 Winner: **ISTE 12‑hr coding event** & **Code Refactors @ Stepcone**
 
 ---
 
@@ -31,52 +38,29 @@
 | 💻 Languages         | C · C++ · Python · Java |
 | 🌐 Web Development  | HTML · CSS · JavaScript · Bootstrap · Django · PHP |
 | 🤖 AI / ML          | PyTorch · TensorFlow · Scikit-learn · DistilBERT · LSTM |
-| 🛠️ Tools & DB       | React.js · FastAPI · MySQL · Git |
+| ⚙️ Tools & DB        | React.js · FastAPI · MySQL · Git |
 
 ---
 
-### 🚀 Projects
+### 📦 Project Repositories
 
-#### [Mental Health Risk Detection](https://github.com/Naveensaikumar09/healthy-fy)
-A full-stack NLP app that:
-- 🧠 Predicts mental health status from user text using DistilBERT + LSTM
-- 🗣️ Built with FastAPI, PyTorch backend + React front-end
-
-#### [StudentInfoTracker](https://github.com/Naveensaikumar09/StudentInfoTracker)
-A web platform to manage student records:
-- Developed using Django and MySQL
-- Features secure login, RESTful API, and admin dashboard
-
-#### [Online Examination System](https://github.com/Naveensaikumar09/OnlineExamination)
-A secure PHP-based exam portal:
-- Implements auto-grading, timed quizzes, and real-time results
-- Built with Bootstrap and MySQL
+| Repository | Description | Tech Stack |
+|-----------|-------------|------------|
+| [`healthy-fy`](https://github.com/Naveensaikumar09/healthy-fy) | Predicts mental health risk using personality trait text via NLP | DistilBERT · LSTM · PyTorch · FastAPI · React |
+| [`StudentInfoTracker`](https://github.com/Naveensaikumar09/StudentInfoTracker) | Django-based student info system with attendance and academics tracking | Django · MySQL · REST APIs |
+| [`OnlineExamination`](https://github.com/Naveensaikumar09/OnlineExamination) | Online test-taking platform with auto evaluation and result reporting | PHP · JavaScript · MySQL · Bootstrap |
+| [`CodeUnsolved`](https://github.com/Naveensaikumar09/CodeUnsolved) | Extension-based tracker to keep count of unsolved problems on LeetCode and Codeforces | JavaScript · HTML · CSS · Web Extensions |
 
 ---
 
-### 📚 Publications & Certifications
+### 📬 Let's Connect
 
-- 📄 **Survey on Stock Price Prediction using Attention-Based LSTM Hybrid Model**
-- 🎓 Certifications:
-  - JavaScript – Intermediate (HackerRank)
-  - SQL (HackerRank)
-  - Introduction to Generative AI (Google)
-
----
-
-### 📊 GitHub Stats
-
-![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naveensaikumar09&show_icons=true&theme=radical)
-
----
-
-### 🤝 Let's Connect
-
-- ✉️ [Email](mailto:nsai69336@gmail.com)
+- 📧 [Email](mailto:nsai69336@gmail.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/naveensaikumar)
 - 🐙 [GitHub](https://github.com/Naveensaikumar09)
+- 💡 [LeetCode](https://leetcode.com/u/Naveensaikumar/)
+- 🧠 [CodeChef](https://www.codechef.com/users/naveensai09)
 
 ---
 
 _“Consistency, curiosity, and code – that’s how I build.”_
-
