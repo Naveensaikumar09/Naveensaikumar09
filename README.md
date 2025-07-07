@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Seera Naveen SaiKumar</h1>
+<h1 align="center"> Seera Naveen SaiKumar</h1>
 
 <p align="center">
 🎓 Final-year B.Tech (CSE – AI & ML) @ GMR Institute of Technology | 📈 CGPA: 8.99  
